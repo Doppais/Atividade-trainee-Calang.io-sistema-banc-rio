@@ -38,6 +38,7 @@ class Repositorio:
 repositorio=Repositorio()
 
 while True:
+    print("")
     print("Escolha uma opção")
     print("1. Criar nova conta")
     print("2. Depositar")
